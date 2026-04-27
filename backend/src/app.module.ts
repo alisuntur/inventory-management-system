@@ -15,10 +15,10 @@ import { FinanceModule } from './finance/finance.module';
     TypeOrmModule.forRoot({
       type: 'postgres',
       host: '127.0.0.1',
-      port: 5432,
+      port: 5433,
       username: 'postgres',
       password: 'postgres', // User specified password
-      database: 'Bayi',
+      database: 'stitch_db',
       entities: [__dirname + '/**/*.entity{.ts,.js}'],
       synchronize: true, // Auto-create tables as requested
     }),

@@ -119,7 +119,7 @@ export default function Login() {
 
                 {/* Footer */}
                 <div className="absolute bottom-4 left-0 right-0 text-center text-text-muted text-sm">
-                    © 2025 Anka. Tüm Hakları Saklıdır.
+                    © 2026 Anka. Tüm Hakları Saklıdır.
                 </div>
             </div>
         </div>

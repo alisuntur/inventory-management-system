@@ -121,7 +121,7 @@ export default function DashboardLayout() {
 
                 {/* Footer - Fixed at bottom */}
                 <footer className="py-3 px-6 border-t border-accent text-center text-text-muted text-xs flex-shrink-0">
-                    © 2025 Anka. Tüm Hakları Saklıdır.
+                    © 2026 Anka. Tüm Hakları Saklıdır.
                 </footer>
             </main>
         </div>
